@@ -1,22 +1,22 @@
-1 # project name :DA-baby-step
+1   # project name :DA-baby-step
 2
-3  -----
-4 # Project objective: problem statement
+3   -----
+4   # Project objective: problem statement
 5
 6
 7
-8  -------
-9 # Data source
+8   -------
+9   # Data sourcing
 10
 11
 12
-13 ------
-14 # Data transformation
+13   ------
+14   # Data transformation
 15
 16
 17
-18  -------
-19 # findings and recomdations
+18    -------
+19   # findings and recomdations
 
 
 
